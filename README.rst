@@ -5,7 +5,6 @@ Via https://reactnative.dev/docs/environment-setup
 
 ::
 
-    npx create-expo-app AwesomeProject
+    npx react-native init AwesomeProject
 
-    cd AwesomeProject
-    npm start # you can also use: npx expo start
+    cd AwesomeProject ; npx react-native run-ios
